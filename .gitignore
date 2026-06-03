@@ -1,0 +1,23 @@
+# Virtual env
+gesture-env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Env files
+.env
+
+# Large files / models / data
+*.zip
+*.npy
+*.h5
+*.keras
+*.ckpt
+*.pkl
+*.csv
